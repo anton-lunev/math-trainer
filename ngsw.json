@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1567048266998,
+  "timestamp": 1567048729534,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -54,7 +54,7 @@
     "/index.html": "2d10f9f01eb1ed78a52d712d2863f8513ee16948",
     "/main-es2015.86f4f6eef793015ced04.js": "1cbf9cc1862847f4f073e446cb79c126c6673a1e",
     "/main-es5.86f4f6eef793015ced04.js": "dcb8e59cc528d23ebaa46b336189618833b0834b",
-    "/manifest.webmanifest": "fd797820d718686af1015c98a62916bfe6c1ebb1",
+    "/manifest.webmanifest": "1ca73c029ae78d78ff0c5ce024c3748cf1ee6863",
     "/polyfills-es2015.c0373d524358eabe0165.js": "f2ccbe2ca4a43b9d945c6dc4aa498cf13cc6a613",
     "/polyfills-es5.edc6f902596e940ad9f6.js": "1138feca8e5af9a81b53c60c66e38e699121415d",
     "/runtime-es2015.24b02acc1f369d9b9f37.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",

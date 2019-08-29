@@ -1,11 +1,10 @@
 {
   "name": "math",
   "short_name": "math",
-  "theme_color": "#1976d2",
-  "background_color": "#fafafa",
+  "theme_color": "#303030",
+  "background_color": "#303030",
   "display": "standalone",
-  "scope": "/math-trainer",
-  "start_url": "/math-trainer",
+  "start_url": ".",
   "icons": [
     {
       "src": "assets/icons/icon-72x72.png",
